@@ -7,4 +7,4 @@ Durante o desenvolvimento consegui aprimorar alguns conhecimentos voltados a **F
 
 HTML/CSS/JS
 
-' Ha cada dia 1% a mais! '
+1% todo dia..
